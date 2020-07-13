@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+### Machine Learning
+
+### Remote Sensing
+
+### Geophysics
+
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
