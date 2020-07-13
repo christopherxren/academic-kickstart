@@ -31,7 +31,7 @@ education:
     institution: University of Cambridge
     year: 2016
   - course: MRes Photonic Systems Development
-    institution: university of Cambridge
+    institution: University of Cambridge
     year: 2012
   - course: MPhys in Physics
     institution: University of Manchester
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Christopher Ren is a Chick Keller Postodctoral Fellow currently working in the Space and Data Science Group in the Intelligence and Space Research Division (ISR-3) at Los Alamos National Laboratory. His research interests include anomalous change detection, multi-sensor data fusion, remote sensing and machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
