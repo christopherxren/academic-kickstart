@@ -71,10 +71,28 @@ subtitle = ""
 
 * Deep snow: synthesizing remote sensing imagery with generative adversarial nets <br>
 <span style="margin-left:1.5em"> **C. X. Ren**, A. Ziemann, J. Theiler, A. M. S. Durieux <br>
-<span style="margin-left:1.5em"> SPIE Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imagery XXVI, 2020, [\[online\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11392/113920T/Deep-snow--synthesizing-remote-sensing-imagery-with-generative-adversarial/10.1117/12.2560716.pdf)
+<span style="margin-left:1.5em"> SPIE Algorithms, Technologies, and Applications for Multispectral <br>
+<span style="margin-left:1.5em"> and Hyperspectral Imagery XXVI, 2020, [\[online\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11392/113920T/Deep-snow--synthesizing-remote-sensing-imagery-with-generative-adversarial/10.1117/12.2560716.pdf)
   
+* Cycle-Consistent Adversarial Networks for Realistic Pervasive Change Generation in Remote Sensing Imagery <br>
+<span style="margin-left:1.5em"> **C. X. Ren**, A. Ziemann, J. Theiler, A. M. S. Durieux <br>
+ <span style="margin-left:1.5em"> IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI) 2020  [\[online\]](https://ieeexplore.ieee.org/iel7/9092968/9094542/09094603.pdf)
+   
 ### Remote Sensing
 
+* On the Detectability of Conflict: a Remote Sensing Study of the Rohingya Conflict <br>
+<span style="margin-left:1.5em"> **C. X. Ren**, M. T. Calef,  A. M. S. Durieux,  A. Ziemann, J. Theiler<br>
+ <span style="margin-left:1.5em"> IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI) 2020  [\[online\]](https://ieeexplore.ieee.org/document/9094608/)
+
+* Multi-sensor anomalous change detection at scale
+<span style="margin-left:1.5em"> A. Ziemann, **C. X. Ren**, J. Theiler<br>
+  <span style="margin-left:1.5em"> SPIE Algorithms, Technologies, and Applications for Multispectral <br>
+<span style="margin-left:1.5em"> and Hyperspectral Imagery XXVI, 2020, [\[online\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10986/1098615/Multi-sensor-anomalous-change-detection-at-scale/10.1117/12.2519167.short?SSO=1)
+  
+* BUDD: Multi-modal Bayesian Updating Deforestation Detections
+<span style="margin-left:1.5em"> A. M. S. Durieux, **C. X. Ren**, M. T. Calef, R. Chartrand, M. S. Warren <br>
+  <span style="margin-left:1.5em"> arxiv 2020 [\[online\]] (https://arxiv.org/abs/2001.10661)
+    
 ### Geophysics
 
 {{% alert note %}}
