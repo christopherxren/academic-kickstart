@@ -69,6 +69,10 @@ subtitle = ""
 
 ### Machine Learning
 
+* Deep snow: synthesizing remote sensing imagery with generative adversarial nets <br>
+<span style="margin-left:1.5em"> **C. X. Ren**, A. Ziemann, J. Theiler, A. M. S. Durieux <br>
+<span style="margin-left:1.5em"> SPIE Algorithms, Technologies, and Applications for Multispectral and Hyperspectral Imagery XXVI, 2020, [\[online\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11392/113920T/Deep-snow--synthesizing-remote-sensing-imagery-with-generative-adversarial/10.1117/12.2560716.pdf)
+  
 ### Remote Sensing
 
 ### Geophysics
