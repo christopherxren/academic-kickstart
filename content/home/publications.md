@@ -80,12 +80,11 @@ subtitle = ""
    
 * Machine Learning Reveals the State of Intermittent Frictional Dynamics in a Sheared Granular Fault <br>
 <span style="margin-left:1.5em"> **C. X. Ren** et al. <br>
-  <span style="margin-left:1.5em"> Geophysical Research Letters 2020 [\[online\]]
-    (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL082706)  
+  <span style="margin-left:1.5em"> Geophysical Research Letters 2020, [\[online\]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL082706)  
    
  * Similarity of fast and slow earthquakes illuminated by machine learning <br>
  <span style="margin-left:1.5em"> C. Hulbert, B. Rouet-Leduc, P. A. Johnson, **C. X. Ren** et al. <br>
-  <span style="margin-left:1.5em"> Nature Geoscience 2019 [\[online\]] (https://www.nature.com/articles/s41561-018-0272-8)
+  <span style="margin-left:1.5em"> Nature Geoscience 2019, [\[online\]] (https://www.nature.com/articles/s41561-018-0272-8)
     
 ### Remote Sensing
 
@@ -100,16 +99,16 @@ subtitle = ""
   
 * BUDD: Multi-modal Bayesian Updating Deforestation Detections
 <span style="margin-left:1.5em"> A. M. S. Durieux, **C. X. Ren**, M. T. Calef, R. Chartrand, M. S. Warren <br>
-  <span style="margin-left:1.5em"> arxiv 2020 [\[online\]] (https://arxiv.org/abs/2001.10661)
+  <span style="margin-left:1.5em"> arxiv 2020, [\[online\]] (https://arxiv.org/abs/2001.10661)
     
 ### Geophysics
 
 * Machine learning reveals the seismic signature of eruptive behavior at piton de la fournaise volcano <br>
 <span style="margin-left:1.5em"> **CX Ren**, A Peltier, V Ferrazzini, B Rouet‐Leduc, PA Johnson, F Brenguier <br>
-  <span style="margin-left:1.5em"> Geophysical Research Letters 2020 [\[online\]] (https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085523)
+  <span style="margin-left:1.5em"> Geophysical Research Letters 2020, [\[online\]] (https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL085523)
 *From Stress Chains to Acoustic Emission <br>
 <span style="margin-left:1.5em"> K Gao, R Guyer, E Rougier, **CX Ren**, PA Johnson <br>
-  <span style="margin-left:1.5em"> Physical Review Letters 2019 [\[online\]] (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.048003)
+  <span style="margin-left:1.5em"> Physical Review Letters 2019, [\[online\]] (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.048003)
     
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
