@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Christopher Ren is a Chick Keller Postodctoral Fellow currently working in the Space and Data Science Group in the Intelligence and Space Research Division (ISR-3) at Los Alamos National Laboratory. His research interests include anomalous change detection, multi-sensor data fusion, remote sensing and machine learning.
+Christopher Ren is a Chick Keller Postdoctoral Fellow currently working in the Space and Data Science Group in the Intelligence and Space Research Division (ISR-3) at Los Alamos National Laboratory. His research interests include anomalous change detection, multi-sensor data fusion, remote sensing and machine learning.
 
